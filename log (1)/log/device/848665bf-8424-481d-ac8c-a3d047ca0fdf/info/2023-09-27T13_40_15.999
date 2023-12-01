@@ -1,0 +1,5 @@
+$848665bf-8424-481d-ac8c-a3d047ca0fdf2ùÆÏ¨’ö›ùjí
+$ad76bdd1-4a12-4ca7-8e96-e074338d3a09nginx-docker:1_0_m_0
+€’¸Ã˜şÿÿÿ’»Ï¨Õñ©ª(:
+¥Found error in content tree nginx:latest attached to volume nginx-docker:1_0_m_0: 
+Syncer Download Status of image name: nginx:latest, location:  - error error getting manifest: Get "https://index.docker.io/v2/": tls: failed to verify certificate: x509: certificate signed by unknown authorityùÆÏ¨¹•Ãä"(	$e97f4cec-ec76-4cb6-99eb-9c409c9f31e0*)Will retry in 10m0s; have retried 2 times
